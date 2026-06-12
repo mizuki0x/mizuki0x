@@ -40,8 +40,8 @@ Programs and tooling for agents that transact on chain. Escrow, reputation, and 
   <a href="https://github.com/mizuki0x/kamiyo-protocol">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mizuki0x&repo=kamiyo-protocol&theme=transparent&hide_border=true" alt="mizuki0x/kamiyo-protocol" />
   </a>
-  <a href="https://github.com/kamiyoai/percli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamiyoai&repo=percli&theme=transparent&hide_border=true" alt="kamiyoai/percli" />
+  <a href="https://github.com/mizuki0x/percli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mizuki0x&repo=percli&theme=transparent&hide_border=true" alt="mizuki0x/percli" />
   </a>
 </p>
 
